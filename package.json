@@ -1,6 +1,6 @@
 {
   "name": "node-service",
   "dependencies": {
-    "@platformatic/node": "^2.16.0-alpha.1"
+    "@platformatic/node": "^2.20.0-alpha.1"
   }
 }
